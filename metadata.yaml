@@ -1,0 +1,32 @@
+_repo: La-tentation-de-Saint-Antoine_10982
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- FR Littérature
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10982'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anthony, of Egypt, Saint, approximately 250-355 or 356 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Christian fiction'
+- !lcsh 'Egypt -- Fiction'
+- !lcsh 'Christian saints -- Fiction'
+- GITenberg
+title: La tentation de Saint Antoine
+url: http://www.gutenberg.org/ebooks/10982
